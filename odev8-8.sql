@@ -2,7 +2,7 @@ CREATE TABLE employee (
   id integer,
   name varchar(50),
   birthday Date
-  email VARCHAR(100) 
+  email varchar(100) 
   );
 
 
